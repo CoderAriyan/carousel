@@ -6,7 +6,7 @@ $(document).ready(function(){
    $('.owl-carousel').owlCarousel({
 
         margin:15,
-        
+        autoPlay: true,
         autoplayTimeout : 3000,
         autoplayHoverPause : true,
         responsiveClass : true,
